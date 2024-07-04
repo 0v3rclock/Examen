@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica0ver</string>
+    <string name="pulse_para_multiplicar">pulse para multiplicar</string>
+    <string name="pulsa_para_restar">pulsa para restar</string>
+    <string name="pulsa_para_sumar">pulsa para sumar</string>
+    <string name="ingrese_otro_numero">ingrese otro numero</string>
+    <string name="ingrese_un_numero">ingrese un numero</string>
+    <string name="pulsa_para_dividir">pulsa para dividir</string>
+    <string name="pulsa_para_potencia">pulsa para potencia</string>
+</resources>
